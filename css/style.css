@@ -4,3 +4,12 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+#map {
+  height: 450px;
+  width: 100%;
+}
+
+.mapscontainer {
+  padding: 50px;
+}
